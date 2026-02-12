@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\task1_framework_DmitrivD.props" />
+</Project>

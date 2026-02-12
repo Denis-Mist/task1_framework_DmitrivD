@@ -1,0 +1,6 @@
+@task1_framework_DmitrivD_HostAddress = http://localhost:5157
+
+GET {{task1_framework_DmitrivD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
